@@ -1,0 +1,22 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pylint = "*"
+
+[packages]
+imutils = "*"
+jupyter = "*"
+scipy = "*"
+pandas = "*"
+opencv-python = "*"
+dlib = "*"
+face-recognition = "*"
+sklearn = "*"
+numpy = "*"
+progressbar = "*"
+
+[requires]
+python_version = "3.8"
